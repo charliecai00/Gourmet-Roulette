@@ -1,0 +1,38 @@
+<h3 class="form-tag">ADD Restaurants</h3>
+<form action="/list" method="POST">
+    Restaurant: <input type="text" id="name" name="name" placeholder="Required">
+    District: <input type="text" id="district" name="district" placeholder="Required">
+    Cuisine: <input type="text" id="cuisine" name="cuisine" placeholder="Required">
+    <input type="submit" id="submit" name="submit" value="ADD">
+</form>
+
+<h3 class="form-tag">REMOVE Restaurants</h3>
+<form action="/list" method="POST">
+    Restaurant: <input type="text" id="delete" name="delete" placeholder="Required">
+    <input type="submit" id="submit" name="submit" value="DELETE">
+</form>
+
+<h3 class="form-tag">WHAT Are You Enjoying Tonight? Here Are The Options: </h3>
+<table class="favorite">
+    <thead>
+        <tr>
+            <th>Restaurant</th>
+            <th>District</th>
+            <th>Cuisine</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each result}}
+        <tr>
+            <th>{{name}}</th>
+            <th>{{district}}</th>
+            <th>{{cuisine}}</th>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
