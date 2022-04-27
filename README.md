@@ -1,4 +1,4 @@
-![last update](https://img.shields.io/github/last-commit/charliecai00/Gourmet-Roulette)
+![last update](https://img.shields.io/github/last-commit/charliecai00/Gourmet-Roulette?logo=GitHub)
 # Gourmet Roulette
 
 ## Deployed URL
