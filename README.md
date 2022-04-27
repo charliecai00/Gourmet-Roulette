@@ -1,3 +1,8 @@
+![last update](https://img.shields.io/github/last-commit/charliecai00/Gourmet-Roulette)
+
+#Deployed URL
+https://whispering-chamber-68869.herokuapp.com/
+
 # Building and installing Gourmet Roulette
 1. git clone `https://github.com/nyu-csci-ua-0467-001-002-spring-2022/final-project-charliecai00`
 2. Navigate into the project directory
