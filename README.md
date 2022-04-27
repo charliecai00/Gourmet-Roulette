@@ -1,7 +1,6 @@
 ![last update](https://img.shields.io/github/last-commit/charliecai00/Gourmet-Roulette)
 
-#Deployed URL
-
+# Deployed URL
 [Click me](https://whispering-chamber-68869.herokuapp.com/)
 
 # Building and installing Gourmet Roulette
