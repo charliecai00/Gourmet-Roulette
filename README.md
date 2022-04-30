@@ -21,23 +21,17 @@ MONGODB_URI = "//Your Mongodb Atlas Server"
 6. run `npm start`
 
 
-## Wireframes
-
-main page
-
+## Website Screenshots
+### Main page
 ![main](documentation/main.png)
 
-favorite page
-
+### Favorites page
 ![favorite](documentation/favorite.png)
 
-about page
-
+### About page
 ![about](documentation/about.png)
 
-## Site map
 
-![app_map](documentation/map.png)
 
 
 
