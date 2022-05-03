@@ -1,7 +1,8 @@
 ![last update](https://img.shields.io/github/last-commit/charliecai00/Gourmet-Roulette?logo=GitHub)
 # Gourmet Roulette
 
-### [Deployed URL](https://whispering-chamber-68869.herokuapp.com/)
+## Deployed URL
+[Click me](https://whispering-chamber-68869.herokuapp.com/)
 
 ## Overview
 There are over ten thousands restaurants in Manhattan, New York. Which restaurants will you have dinner at? It's just one of those anxious daily questions that you have just hours before dinner. Should I choose a restaurant in downtown, midtown, or uptown? What type of cuisine should I pick, probably not Italian cuz I just had it last night? Sounds annoying enough... 
